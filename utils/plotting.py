@@ -44,5 +44,6 @@ def stacked_bar_plot(df: pd.DataFrame, col: str, hue: str,
     plt.ylabel(ylabel if ylabel else 'Count')
     plt.title(title if title else f'{col} Counts by {hue}')
     plt.legend(title=hue)
+    ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 
     plt.show()
