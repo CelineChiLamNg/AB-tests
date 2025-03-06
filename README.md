@@ -8,7 +8,7 @@ This project aims to analyze both datasets, [Fast Food Marketing Campaign](https
 <br> with A/B testing.
 
 ## Fast Food Marketing Campaign
-Looker Studio Dashboard: https://lookerstudio.google.com/s/kyJoFQec1tU
+Looker Studio Dashboard: https://lookerstudio.google.com/s/u19EJlDejhw
 ### Objectives
 The fast-food chain tested out 3 promotions in several store and <br>
 the data records sales in the initial 4 weeks of the new promotion. <br>
